@@ -1,0 +1,11 @@
+📦 Book-Recommendation-System
+├── data/                # Raw and processed datasets
+├── notebooks/           # Jupyter notebooks for EDA and model experiments
+├── src/
+│   ├── data_preprocessing.py
+│   ├── content_model.py
+│   ├── collaborative_model.py
+│   ├── hybrid_recommender.py
+│   └── utils.py
+├── app.py               # Streamlit or Flask app
+├── requirements.txt
